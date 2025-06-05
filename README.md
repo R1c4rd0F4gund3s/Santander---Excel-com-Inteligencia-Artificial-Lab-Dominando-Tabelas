@@ -60,7 +60,7 @@ Com um investimento mensal de **R$ 1.260,00** e rendimento médio de **1,079%**,
 
 ## 📷 Demonstração
 
-![Exemplo de Simulação](https://github.com/R1c4rd0F4gund3s/Santander---Excel-com-Inteligencia-Artificial-Lab-Dominando-Tabelas/blob/main/Demo_Planilha_Investimento.gif)
+![Exemplo de Simulação](https://github.com/R1c4rd0F4gund3s/Santander---Excel-com-Inteligencia-Artificial-Lab-Dominando-Tabelas/blob/main/Demo_Planilha_Investimento1.gif)
 
 ---
 
