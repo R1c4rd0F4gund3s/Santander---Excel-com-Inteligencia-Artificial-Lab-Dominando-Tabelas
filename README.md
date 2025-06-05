@@ -1,7 +1,3 @@
-Ótimo! Aqui está uma sugestão de README.md para o seu projeto, com melhorias gráficas e visuais conforme as dicas anteriores. Basta copiar e colar, adaptando imagens e detalhes conforme necessário:
-
----
-
 # 📊 Simulação de Investimentos em Fundos Imobiliários
 
 ![Excel](https://img.shields.io/badge/Excel-Spreadsheet-brightgreen) ![Status](https://img.shields.io/badge/status-ativo-success)
