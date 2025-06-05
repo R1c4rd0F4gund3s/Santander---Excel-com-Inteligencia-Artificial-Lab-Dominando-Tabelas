@@ -1,34 +1,56 @@
-# Simulação de Investimentos em Fundos Imobiliários
-![Excel](https://img.shields.io/badge/Excel-Spreadsheet-brightgreen)
-![Status](https://img.shields.io/badge/status-ativo-success)
-## Descrição do Desafio
+Ótimo! Aqui está uma sugestão de README.md para o seu projeto, com melhorias gráficas e visuais conforme as dicas anteriores. Basta copiar e colar, adaptando imagens e detalhes conforme necessário:
 
-Este laboratório tem como objetivo aplicar conceitos de Excel no desenvolvimento de uma ferramenta prática de simulação de investimentos em fundos imobiliários. A partir de uma compreensão aprofundada sobre como esses fundos funcionam e as perguntas típicas dos investidores (quanto investir, por quanto tempo, taxa de rendimento, etc.), esta planilha permite realizar simulações para auxiliar na tomada de decisão sobre investimentos.
+---
 
-A solução automatiza cálculos complexos, como:
+# 📊 Simulação de Investimentos em Fundos Imobiliários
+
+![Excel](https://img.shields.io/badge/Excel-Spreadsheet-brightgreen) ![Status](https://img.shields.io/badge/status-ativo-success)
+
+## 📑 Sumário
+
+- [Descrição do Desafio](#descrição-do-desafio)
+- [Funcionalidades Principais](#funcionalidades-principais)
+- [Como Usar](#como-usar)
+- [Exemplo de Simulação](#exemplo-de-simulação)
+- [Contato](#contato)
+
+---
+
+## 📝 Descrição do Desafio
+
+Este laboratório tem como objetivo aplicar conceitos de Excel no desenvolvimento de uma ferramenta prática de simulação de investimentos em fundos imobiliários. A solução automatiza cálculos como:
+
 - Valor total investido ao longo do tempo
 - Patrimônio acumulado em diferentes horizontes de tempo
 - Dividendos mensais estimados
 - Sugestão de alocação baseada no perfil do investidor
 
+---
+
 ## 🚀 Funcionalidades Principais
 
-1. **Configuração de Investimentos** – Permite definir o salário, rendimento da carteira e sugestão de investimento mensal.
-2. **Cenários de Dividendos** – Simulações de rendimentos em diferentes prazos (2, 5, 10, 20 e 30 anos).
-3. **Perfil do Investidor** – Classificação do investidor como conservador, com sugestão de alocação percentual para diferentes tipos de Fundos Imobiliários (FII).
-4. **Distribuição de Investimentos** – Automatização dos cálculos de alocação mensal em categorias como Papel, Tijolo, Híbridos e Fundos de Fundos (FOFs).
+1. **Configuração de Investimentos** – Defina salário, rendimento da carteira e sugestão de investimento mensal.
+2. **Cenários de Dividendos** – Simule rendimentos em prazos de 2, 5, 10, 20 e 30 anos.
+3. **Perfil do Investidor** – Classificação do investidor e sugestão de alocação percentual.
+4. **Distribuição de Investimentos** – Cálculo automatizado de alocação mensal em categorias como Papel, Tijolo, Híbridos e Fundos de Fundos (FOFs).
 
-## Como Usar
+---
 
-1. Preencha os valores iniciais como salário e o percentual do rendimento da carteira.
-2. Defina o valor de investimento mensal e taxa de rendimento estimada.
+## 💡 Como Usar
+
+1. Preencha os valores iniciais (salário, percentual do rendimento da carteira).
+2. Defina o valor de investimento mensal e a taxa de rendimento estimada.
 3. Observe os cálculos automáticos sobre patrimônio acumulado e dividendos futuros.
-4. Verifique a sugestão de alocação nos diferentes tipos de fundos imobiliários.
+4. Veja a sugestão de alocação nos diferentes tipos de fundos imobiliários.
 5. Ajuste as variáveis conforme seu perfil e estratégia de investimentos.
 
-## Exemplo de Simulação
+> **Dica:** Personalize os parâmetros para simular diferentes cenários e perfis!
 
-Com um investimento mensal de **R$ 1.260,00**, um rendimento médio de **1,079%**, os resultados projetados são:
+---
+
+## 📈 Exemplo de Simulação
+
+Com um investimento mensal de **R$ 1.260,00** e rendimento médio de **1,079%**, os resultados projetados são:
 
 | 🕒 Período | 💰 Patrimônio Acumulado | 📈 Dividendos Mensais |
 |:---------:|:----------------------:|:--------------------:|
@@ -38,9 +60,17 @@ Com um investimento mensal de **R$ 1.260,00**, um rendimento médio de **1,079%*
 | 20 anos   | R$ 1.417.749,98        | R$ 8.506,50          |
 | 30 anos   | R$ 5.445.933,77        | R$ 32.675,60         |
 
-## Contato
+---
 
-- **E-mail:** [Ricardo Fagundes](mailto:fagundz@gmail.com)
+## 📷 Demonstração
+
+*Adicione aqui uma imagem ou GIF da planilha em funcionamento para ilustrar o uso!*
+
+---
+
+## 📬 Contato
+
+- **E-mail:** [fagundz@gmail.com](mailto:fagundz@gmail.com)
 - **LinkedIn:** [Ricardo Fagundes](https://www.linkedin.com/in/ricardofagundes/)
 
-Caso queira adicionar mais detalhes ou alterar alguma seção, me avise que podemos aprimorar ainda mais! 😊
+---
