@@ -10,7 +10,7 @@ A solução automatiza cálculos complexos, como:
 - Dividendos mensais estimados
 - Sugestão de alocação baseada no perfil do investidor
 
-## Funcionalidades Principais
+## 🚀 Funcionalidades Principais
 
 1. **Configuração de Investimentos** – Permite definir o salário, rendimento da carteira e sugestão de investimento mensal.
 2. **Cenários de Dividendos** – Simulações de rendimentos em diferentes prazos (2, 5, 10, 20 e 30 anos).
@@ -29,13 +29,13 @@ A solução automatiza cálculos complexos, como:
 
 Com um investimento mensal de **R$ 1.260,00**, um rendimento médio de **1,079%**, os resultados projetados são:
 
-| Período | Patrimônio Acumulado | Dividendos Mensais |
-|---------|----------------------|--------------------|
-| 2 anos  | R$ 34.306,81         | R$ 205,84         |
-| 5 anos  | R$ 105.558,91        | R$ 633,35         |
-| 10 anos | R$ 306.538,11        | R$ 1.839,23       |
-| 20 anos | R$ 1.417.749,98      | R$ 8.506,50       |
-| 30 anos | R$ 5.445.933,77      | R$ 32.675,60      |
+| 🕒 Período | 💰 Patrimônio Acumulado | 📈 Dividendos Mensais |
+|:---------:|:----------------------:|:--------------------:|
+| 2 anos    | R$ 34.306,81           | R$ 205,84            |
+| 5 anos    | R$ 105.558,91          | R$ 633,35            |
+| 10 anos   | R$ 306.538,11          | R$ 1.839,23          |
+| 20 anos   | R$ 1.417.749,98        | R$ 8.506,50          |
+| 30 anos   | R$ 5.445.933,77        | R$ 32.675,60         |
 
 ## Contato
 
