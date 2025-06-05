@@ -1,5 +1,6 @@
 # Simulação de Investimentos em Fundos Imobiliários
-
+![Excel](https://img.shields.io/badge/Excel-Spreadsheet-brightgreen)
+![Status](https://img.shields.io/badge/status-ativo-success)
 ## Descrição do Desafio
 
 Este laboratório tem como objetivo aplicar conceitos de Excel no desenvolvimento de uma ferramenta prática de simulação de investimentos em fundos imobiliários. A partir de uma compreensão aprofundada sobre como esses fundos funcionam e as perguntas típicas dos investidores (quanto investir, por quanto tempo, taxa de rendimento, etc.), esta planilha permite realizar simulações para auxiliar na tomada de decisão sobre investimentos.
